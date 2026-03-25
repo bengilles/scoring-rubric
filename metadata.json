@@ -1,0 +1,5 @@
+{
+  "name": "Book Review Rubric",
+  "description": "An interactive scoring rubric for book reviews based on specific criteria.",
+  "requestFramePermissions": []
+}
